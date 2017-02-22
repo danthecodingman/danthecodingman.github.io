@@ -1,0 +1,29 @@
+*{
+  font-family:sans-serif;
+  color: white;
+  font-size: 1.2em;
+}
+body{
+background-image: url("http://i.imgur.com/wQVWjYG.png");
+}
+
+div{
+    text-align: center;
+    vertical-align: middle;
+    border-color: white;
+    border-radius:8px;
+    border-width: 3px;
+    border-style: solid;
+    margin-top: 25%;
+    margin-bottom: 25%;
+    margin-right: 10%;
+    margin-left: 10%;
+    h1{
+      font-size: 1.4em;
+    }
+}
+img{
+height:50%;
+margin-top: 5px;
+display: inline-block;
+}
