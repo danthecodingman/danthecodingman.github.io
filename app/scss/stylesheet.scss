@@ -1,10 +1,10 @@
 *{
   font-family:sans-serif;
-  color: white;
+  color: black;
   font-size: 1.2em;
 }
 body{
-background-image: url("http://i.imgur.com/wQVWjYG.png");
+    background-image: url("http://topfemaletennisplayers.com/wp-content/uploads/2013/08/tennis-court.jpg");
 }
 
 div{
@@ -14,16 +14,21 @@ div{
     border-radius:8px;
     border-width: 3px;
     border-style: solid;
-    margin-top: 25%;
-    margin-bottom: 25%;
+    margin-top: 15%;
+    margin-bottom: 15%;
     margin-right: 10%;
     margin-left: 10%;
-    .left{
-    }
+    background-color:FFE967;
+    padding: 100px;
+
     h1{
       font-size: 1.4em;
+      .header{
+        position: fixed;
+      }
     }
 }
+
 img{
 height:50%;
 margin-top: 5px;
