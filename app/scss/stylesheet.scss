@@ -7,14 +7,22 @@ body{
     background-color: black;
 }
 .header{
-  background-image: url("http://www.valleycovenant.org/pastorblog/wp-content/uploads/2017/03/money3.jpg");
   border-radius: 8px;
-  font-size: 1.3em;
+  font-size: 1.5em;
   border-color: black;
   border-style: solid;
-  border-top: 20px;
-  color: black;
+  border-top: 30px;
+  color: white;
+  vertical-align: middle;
+  text-align: center;
+  height: 50px;
+  margin-bottom: 5px;
+
+  p{
+    font-size: 1.6em;
+  }
 }
+
 
 .music{
 
