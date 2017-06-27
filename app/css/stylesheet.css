@@ -1,6 +1,5 @@
 * {
-  font-family: arial, helvetica , sans-serif;
-  font-size: 1em; }
+  font-family: arial, helvetica , sans-serif; }
 
 body {
   background-color: black; }
@@ -17,13 +16,14 @@ body {
   height: 50px;
   margin-bottom: 5px; }
   .header p {
-    font-size: 1.6em; }
+    font-size: 36px; }
 
 .music a {
   text-decoration: none;
   font-weight: 300;
   margin: 0 auto;
-  color: white; }
+  color: white;
+  font-size: 17px; }
 
 .music a:hover {
   font-weight: 700;
