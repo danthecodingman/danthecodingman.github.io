@@ -77,16 +77,13 @@ body {
     text-align: center;
     height: 70px; }
     .header p {
-      font-size: 100px;
-      margin-bottom: 30px;
-      padding-bottom: 30px; }
+      font-size: 100px; }
   .music a {
     text-decoration: none;
     font-weight: 300;
     margin: 0 auto;
     color: white;
-    font-size: 70px;
-    margin-top: 20px; }
+    font-size: 70px; }
     .music a img {
       width: 60px;
       height: 60px; }
