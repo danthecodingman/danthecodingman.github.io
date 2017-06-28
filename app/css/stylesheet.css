@@ -75,17 +75,20 @@ body {
     color: white;
     vertical-align: middle;
     text-align: center;
-    height: 70px;
-    margin-bottom: 10px;
-    padding-bottom: 10px; }
+    height: 70px; }
     .header p {
-      font-size: 100px; }
+      font-size: 100px;
+      margin-bottom: 30px;
+      padding-bottom: 30px;
+      margin-top: 20px;
+      margin-bottom: 20px; }
   .music a {
     text-decoration: none;
     font-weight: 300;
     margin: 0 auto;
     color: white;
-    font-size: 70px; }
+    font-size: 70px;
+    margin-top: 20px; }
     .music a img {
       width: 60px;
       height: 60px; }
